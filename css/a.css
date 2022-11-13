@@ -1,0 +1,162 @@
+@media (max-width:1100px){
+  .news-ne{
+    flex-direction: column;
+    align-items: center;
+  }
+  .text{
+    text-align: center;
+  }
+  .text-img{
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width:1190px){
+  .news-new{
+    margin-bottom: 5px;
+  }
+}
+@media (max-width:1180px){
+  .news-new{
+    width: 534px;
+  }
+}
+@media (max-width:1056px){
+  .container__img{
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width:1050px){
+  .services{
+    flex-direction: column;
+    align-items: center;
+  }
+  .benefits{
+    flex-direction: column;
+    align-items: center;
+  }
+  .benefits__benefits {
+    margin: 0 0 35px;
+  }
+}
+@media (max-width:1016px){
+  .container h2 {
+    padding: 20px 0 0 0;
+  }
+}
+@media (max-width: 991px) {
+  .gallery-item {
+    flex: 33.3%;
+  }
+}
+@media (max-width:916px){
+  .content__text{
+    margin-top: -37px;
+  }
+  .header__logo{
+    border-radius: 15px 0 15px 0;
+  }
+  .news{
+    padding-top: 40px;
+  }
+}
+@media (max-width:820px){
+  .neta{
+    flex-direction: column;
+  }
+  .network-1{
+    margin: 5px;
+    width: 250px;
+  }
+}
+@media (max-width:770px) {
+  .content__text {
+    margin-top: -60px;
+  }
+  .news {
+    padding-top: 0;
+  }
+}
+@media (max-width: 768px) {
+  .gallery-item {
+    flex: 50%;
+  }
+}
+@media (max-width: 612px){
+  .news-new{
+    flex-direction: column;
+    text-align: center;
+    margin: 0 0 50px;
+  }
+  .nana{
+    padding-top: 60px;
+  }
+}
+@media (max-width: 530px) {
+  .gallery-item {
+    flex: 100%;
+    text-align: center;
+  }
+}
+@media (max-width:550px) {
+  .services__services {
+    font-size: 14px;
+  }
+  .title__content{
+    font-size: 14px;
+  }
+}
+@media (max-width:520px){
+  .bb {
+    flex-direction: column;
+  }
+  .benefits__benefits{
+    margin: 0 0 35px;
+  }
+}
+@media (max-width:450px) {
+  .container h2 {
+      padding: 20px 0 0 0;
+    }
+  .services__services {
+    font-size: 11px;
+  }
+  .title__content {
+    font-size: 11px;
+  }
+}
+@media (max-width:414px){
+  .bb {
+    flex-direction: column;
+  }
+}
+@media (max-width:375px){
+  .container h2 {
+    padding: 20px 0 0 0;
+  }
+  .bb{
+    flex-direction: column;
+  }
+}
+@media (max-width:336px) {
+  .services__services {
+    font-size: 9px;
+  }
+  .title__content {
+    font-size: 9px;
+  }
+  .news-new {
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    margin: 0 0 60px;
+  }
+  .nana{
+    padding: 70px 0;
+  }
+}
+
+
+
